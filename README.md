@@ -216,7 +216,12 @@ jupyter
 - 🔗 · [Kaggle](https://kaggle.com/kanchana1990) · 
  
 ---
- 
+ ### 🔗 Quick Links
+* **Medium Article:** [Read the Artical](https://medium.com/@shravanpadhar/decoding-virality-a-data-science-deep-dive-into-youtube-shorts-307943493163)
+* **Kaggle Notebook:** [Interactive Analysis](https://www.kaggle.com/code/shravanpadhar/youtube-shorts-growth-regressor-nlp-insights)
+* **Dataset:** [Download via Kaggle](https://www.kaggle.com/datasets/kanchana1990/youtube-shorts-engagement-and-growth-velocity)
+
+---
 ## 📄 License
  
 This project is licensed under the [MIT License](LICENSE). The dataset was sourced from Kaggle and extracted via Apify infrastructure.
